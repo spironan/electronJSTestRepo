@@ -48,9 +48,7 @@ module.exports = {
         repository: {
           owner: 'spironan',
           name: 'electronJSTestRepo'
-        },  
-        prerelease: false,
-        draft: false,
+        },
         generateReleaseNotes: true,
       }
     }
